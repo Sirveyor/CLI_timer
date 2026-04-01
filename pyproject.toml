@@ -1,0 +1,9 @@
+[project]
+name = "cli-timer"
+version = "0.1.0"
+description = "A cli timer with desktop notifications"
+readme = "README.md"
+requires-python = ">=3.13"
+authors = [
+    { name = "Covert Nelson", email = "sirveyor.code@gmail.com" }
+]
